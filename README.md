@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on something
 - 🌱 I’m currently learning Informatics
 - 😄 Pronouns:jaa·vuh
 -->
